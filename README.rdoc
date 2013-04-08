@@ -1,0 +1,8 @@
+Youtube playlist control
+A global hotkey setup for changing songs/movies within a youtube playlist.
+
+Using the work that Christian Cantrell created, I want to specialise it for the youtube player.
+
+Uses Node.js.
+
+His blog and setup. http://www.livingdigitally.net/2012/06/controlling-web-based-music-players-with-global-keyboard-shortcuts.html
