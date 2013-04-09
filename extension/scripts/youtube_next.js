@@ -1,2 +1,2 @@
-var next = document.getElementById("watch7-playlist-bar-controls")
-next.click();
+var youTubeObject = document.getElementById("movie_player");
+youTubeObject.nextVideo();
