@@ -1,2 +1,2 @@
-var youTubeObject = document.getElementById("movie_player");
-youTubeObject.previousVideo();
+var nextButton = document.getElementById("watch7-playlist-bar-prev-button");
+nextButton.click();
