@@ -1,4 +1,5 @@
-var SERVER_HOST = "192.168.16.237:8000";
+var SERVER_HOST = "192.168.16.200:8000";
+// ifconfig | grep inet
 var socket;
 
 function init() {
